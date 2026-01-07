@@ -1,6 +1,5 @@
 # Suit Game Terminal
-Ini adalah Tugas Akhir untuk Chapter 3 kelas Andorid Wave 17
-Untuk membuat Aplikasi Gunting Batu Kertas yang hanya bisa dimaikan dengan CLI ( Comand Line Interpreter )
+Aplikasi Gunting Batu Kertas game playable only via the Command Line Interface (CLI)
 
 # Task 
 
