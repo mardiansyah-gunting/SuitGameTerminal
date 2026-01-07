@@ -1,5 +1,5 @@
 # Suit Game Terminal
-Aplikasi Gunting Batu Kertas game playable only via the Command Line Interface (CLI)
+Game playable only via the Command Line Interface (CLI)
 
 # Task 
 
